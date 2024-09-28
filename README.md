@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Paige Holland 👋
 
 ## 👨‍💻 About Me
 I am a dedicated Support Analyst and Data Analyst with a passion for transforming data into actionable insights. With a strong foundation in SQL and data visualization tools like Tableau, I enjoy solving complex problems and improving processes.
@@ -16,8 +16,8 @@ I am a dedicated Support Analyst and Data Analyst with a passion for transformin
 - [Your Degree], [Your University]
 
 ## 📫 Contact
-- Email: your.email@example.com
-- [LinkedIn](your-linkedin-url)
+- Email: pholland9684@gmail.com
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/paige-holland-67a9652a9/))
 
 ## 🌳 Hobbies
 When I'm not analyzing data, you can find me:
