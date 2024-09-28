@@ -4,7 +4,7 @@
 I am a dedicated Support Analyst and Data Analyst with a passion for transforming data into actionable insights. With a strong foundation in SQL and data visualization tools like Tableau, I enjoy solving complex problems and improving processes.
 
 ## 🛠 Skills
-- **Languages**: SQL, Java
+- **Languages**: SQL
 - **Data Tools**: Excel, Tableau, PowerShell
 - **Analytical Skills**: Data analysis, Reporting, Troubleshooting
 
@@ -13,8 +13,7 @@ I am a dedicated Support Analyst and Data Analyst with a passion for transformin
 - **[Excel Project](link-to-your-repository)**: A brief description of what the project does.
 - **[SQL Query Optimization]([link-to-project](https://deepnote.com/workspace/tech-moms-129b-a738bafa-01cd-4758-b353-ab57c434c717/project/pholland9684s-Untitled-project-fe4354dd-2217-4906-9861-c22348b28624/notebook/Paige's%20Tech-mom%20Analyst-c50ed1c6f56342009941f2d10b85d1d5)**: Improved query performance for large datasets, resulting in faster reporting times.
 
-## 🎓 Education
-- [Your Degree], [Your University]
+
 
 ## 📫 Contact
 - Email: pholland9684@gmail.com
