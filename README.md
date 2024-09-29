@@ -10,7 +10,7 @@ I am a dedicated Support Analyst and Data Analyst with a passion for transformin
 
 ## 🚀 Projects
 - **[Data Analysis Dashboard](link-to-project)**: Developed an interactive dashboard in Tableau to visualize key metrics and trends.
-- **[Excel Project](link-to-your-repository)**: A brief description of what the project does.
+- **[Excel Project](https://github.com/pholland9684/Tech-mom-Excel-Project)**: A brief description of what the project does.
 - **[SQL Query project](https://deepnote.com/workspace/tech-moms-129b-a738bafa-01cd-4758-b353-ab57c434c717/project/pholland9684s-Untitled-project-fe4354dd-2217-4906-9861-c22348b28624/notebook/Paige's%20Tech-mom%20Analyst-c50ed1c6f56342009941f2d10b85d1d5)**: Improved query performance for large datasets, resulting in faster reporting times.
 
 
