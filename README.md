@@ -17,7 +17,7 @@ I am a dedicated Support Analyst and Data Analyst with a passion for transformin
 
 ## 📫 Contact
 - Email: pholland9684@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/paige-holland-67a9652a9/))
+- LinkedIn (https://www.linkedin.com/in/paige-holland-67a9652a9/))
 
 ## 🌳 Hobbies
 When I'm not analyzing data, you can find me:
