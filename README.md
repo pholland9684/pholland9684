@@ -11,13 +11,13 @@ I am a dedicated Support Analyst and Data Analyst with a passion for transformin
 ## 🚀 Projects
 - **[Data Analysis Dashboard](link-to-project)**: Developed an interactive dashboard in Tableau to visualize key metrics and trends.
 - **[Excel Project](link-to-your-repository)**: A brief description of what the project does.
-- **[SQL Query project]([link-to-project](https://deepnote.com/workspace/tech-moms-129b-a738bafa-01cd-4758-b353-ab57c434c717/project/pholland9684s-Untitled-project-fe4354dd-2217-4906-9861-c22348b28624/notebook/Paige's%20Tech-mom%20Analyst-c50ed1c6f56342009941f2d10b85d1d5)**: Improved query performance for large datasets, resulting in faster reporting times.
+- **[SQL Query project](https://deepnote.com/workspace/tech-moms-129b-a738bafa-01cd-4758-b353-ab57c434c717/project/pholland9684s-Untitled-project-fe4354dd-2217-4906-9861-c22348b28624/notebook/Paige's%20Tech-mom%20Analyst-c50ed1c6f56342009941f2d10b85d1d5)**: Improved query performance for large datasets, resulting in faster reporting times.
 
 
 
 ## 📫 Contact
 - Email: pholland9684@gmail.com
-- [LinkedIn][your-linkedin-url](https://www.linkedin.com/in/paige-holland-67a9652a9/))
+- [LinkedIn](https://www.linkedin.com/in/paige-holland-67a9652a9/))
 
 ## 🌳 Hobbies
 When I'm not analyzing data, you can find me:
