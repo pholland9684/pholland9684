@@ -5,7 +5,7 @@ I am a dedicated Support Analyst and Data Analyst with a passion for transformin
 
 ##  Skills
 - **Languages**: SQL,python
-- **Data Tools**: Excel, Tableau, PowerShell, Looker,juypter
+- **Data Tools**: Excel, Tableau, PowerShell, Looker,juypter, DOMO
 - **Analytical Skills**: Data analysis, Reporting, Troubleshooting
 
 ##  Projects
